@@ -25,3 +25,8 @@
 | green.jpg | photo-1510076857177-7470076d4098 |
 
 Все изображения лежат в проекте; внешних запросов к фотохостингу при просмотре нет.
+
+
+## Шрифты нового варианта
+
+Cormorant Garamond (500 normal, 500 italic) и Manrope (400, 500, 600, 700) размещены локально в `assets/fonts/`. Лицензии OFL включены в ту же папку. Официальные источники: https://github.com/google/fonts/tree/main/ofl/cormorantgaramond и https://github.com/google/fonts/tree/main/ofl/manrope. При просмотре нет запросов к Google Fonts.
