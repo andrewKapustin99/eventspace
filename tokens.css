@@ -25,6 +25,13 @@
   --es-panel-radius: 12px;
   --es-image-radius: 4px;
   --es-shadow: 0 18px 44px #1c34231a;
+  --es-shadow-hover: 0 16px 36px #1c342324;
+  --es-overlay: #12251f99;
+  --es-error: #a33f30;
+  --es-motion-fast: 150ms;
+  --es-motion-normal: 240ms;
+  --es-motion-enter: 320ms;
+  --es-ease: cubic-bezier(.2, .7, .2, 1);
   --legacy-color-001: #faf9f5;
   --legacy-color-002: #fff;
   --legacy-color-003: #263229;
